@@ -1,48 +1,42 @@
-# Cuckoo Magic 1.12
+# The magic age 1.12
 
-ÕâÊÇ Minecraft 1.12.2 °æ±¾µÄÄ£×é Cuckoo Magic£¨²»¹¾ÄñÄ§·¨£©µÄ´úÂë²Ö¿â¡£
+è¿™æ˜¯ Minecraft 1.12.2 ç‰ˆæœ¬çš„æ¨¡ç»„ The magic ageï¼ˆä¸å’•é¸Ÿé­”æ³•ï¼‰çš„ä»£ç ä»“åº“ã€‚
 
 <img src="./doc/logo.png" width="50%">
 
-# Ä¿Â¼
+# ç›®å½•
 
-- [Ä£×é½éÉÜ](#Ä£×é½éÉÜ)
-- [¿ª·¢×´Ì¬](#¿ª·¢×´Ì¬)
-- [Ä£×é»ù±¾ÐÅÏ¢](#Ä£×é»ù±¾ÐÅÏ¢)
-- [¿ª·¢ÕßÖ¸ÄÏ](#¿ª·¢ÕßÖ¸ÄÏ)
-  - [ÈçºÎ¹¹½¨](#ÈçºÎ¹¹½¨)
-- [ÌØ±ðÃùÐ»](#ÌØ±ðÃùÐ»)
+- [æ¨¡ç»„ä»‹ç»](#æ¨¡ç»„ä»‹ç»)
+- [å¼€å‘çŠ¶æ€](#å¼€å‘çŠ¶æ€)
+- [æ¨¡ç»„åŸºæœ¬ä¿¡æ¯](#æ¨¡ç»„åŸºæœ¬ä¿¡æ¯)
+- [å¼€å‘è€…æŒ‡å—](#å¼€å‘è€…æŒ‡å—)
+  - [å¦‚ä½•æž„å»º](#å¦‚ä½•æž„å»º)
 
-# Ä£×é½éÉÜ
-**Cuckoo Dev Team**£¬ÊÇÒ»¸ö Minecraft Mod ¿ª·¢ÍÅ¶Ó£¬ÍÅ¶Ó³ÉÔ±ÃÇ**³É¼¨ÓÅÔ½¡¢Æ·µÂ¸ßÉÐ¡¢ÀÖÓÚÖúÈË¡¢ºÍ°ª¿ÉÇ×¡¢ÈË¼ûÈË°®**£¬ÎªÍÅ¶Ó×ö³öÁË**Äª´ó¹±Ï×**£¬ËùÒÔÍÅ¶ÓµÄÒ»Ãû³ÉÔ±£¨ [baozi](https://github.com/Wu-baozi) £©¾ö¶¨±àÐ´Ò»¸öÄ£×é£¬ÒÔ´Ë**¼ÍÄîÍÅ¶ÓºÍ¸Ð¶÷³ÉÔ±ÃÇµÄ¸ßÉÐµÀµÂÇé²Ù**£¬ÈÃÃ¿Ò»¸ö Minecraft Íæ¼Ò¶¼ÄÜ¸ÐÊÜµ½**²»¹¾ÄñµÄ÷ÈÁ¦**¡£
+# æ¨¡ç»„ä»‹ç»
+è¿™ä¸ªæ¨¡ç»„æ—¨åœ¨æž„å»ºä¸€ä¸ªé­”æ³•çš„ä¸–ç•Œ
 
-# ¿ª·¢×´Ì¬
-1. CMÄ¿Ç°ÓÉ **Cuckoo Dev Team** Î¬»¤£¬Ä¿Ç°´¦ÓÚ·Ç³£ÔçÆÚµÄ°æ±¾£»CM Ä¿Ç°»¹Ã»ÓÐ·¢²¼¹«¿ªµÄÕýÊ½°æ±¾¡£Èç¹ûÄã¶ÔÕâ¸öÄ£×éÓÐÒâ¼û»ò½¨Òé£¬Äã¿ÉÒÔÖ±½ÓÁªÏµÎÒÃÇ»òÕß[Ìá³öIssue](https://github.com/Wu-baozi/Cuckoo-Magic/issues)¡£
+# å¼€å‘çŠ¶æ€
+1. TMAç›®å‰ç”± **Cuckoo Dev Team** ç»´æŠ¤ï¼Œç›®å‰å¤„äºŽéžå¸¸æ—©æœŸçš„ç‰ˆæœ¬ï¼›TMA ç›®å‰è¿˜æ²¡æœ‰å‘å¸ƒå…¬å¼€çš„æ­£å¼ç‰ˆæœ¬ã€‚å¦‚æžœä½ å¯¹è¿™ä¸ªæ¨¡ç»„æœ‰æ„è§æˆ–å»ºè®®ï¼Œä½ å¯ä»¥ç›´æŽ¥è”ç³»æˆ‘ä»¬æˆ–è€…[æå‡ºIssue](https://github.com/Wu-baozi/The-Magic-Age/issues)ã€‚
 
-# Ä£×é»ù±¾ÐÅÏ¢
-* Minecraft°æ±¾: 1.12.2
-* Forge°æ±¾: 14.23.5.2847
-* Ä¿Ç°Ä£×é°æ±¾: N/A
+# æ¨¡ç»„åŸºæœ¬ä¿¡æ¯
+* Minecraftç‰ˆæœ¬: 1.12.2
+* Forgeç‰ˆæœ¬: 14.23.5.2847
+* ç›®å‰æ¨¡ç»„ç‰ˆæœ¬: N/A
 
-# ¿ª·¢ÕßÖ¸ÄÏ
+# å¼€å‘è€…æŒ‡å—
 
-## ÈçºÎ¹¹½¨
+## å¦‚ä½•æž„å»º
 
-Èç¹ûÄãÔÚÊ¹ÓÃWindows£¬ÇëÔÚÏîÄ¿¸ùÄ¿Â¼Ö´ÐÐÒÔÏÂÃüÁî£º
+å¦‚æžœä½ åœ¨ä½¿ç”¨Windowsï¼Œè¯·åœ¨é¡¹ç›®æ ¹ç›®å½•æ‰§è¡Œä»¥ä¸‹å‘½ä»¤ï¼š
 
 ```
 gradlew build
 ```
 
-Èç¹ûÄãÊ¹ÓÃµÄÊÇLinux/Unix£º
+å¦‚æžœä½ ä½¿ç”¨çš„æ˜¯Linux/Unixï¼š
 
 ```
 ./gradlew build
 ```
 
-¹¹½¨Íê³Éºó£¬Äã¿ÉÒÔÔÚ`build/libs`Ä¿Â¼ÕÒµ½Éú³ÉµÄ¹éµµÎÄ¼þ¡£
-
-# ÌØ±ðÃùÐ»
-
-1. ³É¼¨ÓÅÔ½¡¢Æ·µÂ¸ßÉÐ¡¢ÀÖÓÚÖúÈË¡¢ºÍ°ª¿ÉÇ×¡¢ÈË¼ûÈË°®¤ÎÁìÐä [@gonggongjohn](https://github.com/gonggongjohn)
-2. ¿ÉÄÜ»á×÷ÎªÒÀÀµ¿âµÄ [CuckooLib](https://github.com/zi-jing/CuckooLib)
+æž„å»ºå®ŒæˆåŽï¼Œä½ å¯ä»¥åœ¨`build/libs`ç›®å½•æ‰¾åˆ°ç”Ÿæˆçš„å½’æ¡£æ–‡ä»¶ã€‚
